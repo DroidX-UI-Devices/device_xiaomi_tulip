@@ -42,6 +42,9 @@ persist.sys.fflag.override.settings_provider_model=false
 ril.subscription.types=NV,RUIM
 telephony.lteOnCdmaDevice=1
 
+# Watchdog
+ro.hw_timeout_multiplier=12
+
 # Better Ram
 ro.config.fha_enable=true
 ro.sys.fw.bg_apps_limit=32
